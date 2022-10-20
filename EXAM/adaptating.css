@@ -1,0 +1,6 @@
+@media(max-width:576px){
+.Overlord{
+  display: flex;
+  flex-direction: column;
+}
+}
